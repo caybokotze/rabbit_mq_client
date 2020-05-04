@@ -8,18 +8,18 @@ Rabbit Mq is a open source messaging platform that allows your applications / se
 
 ## What are the alternatives?
 
-- [ ] You could consider using Redis cache for applications where you need to store a lot of information in RAM.
-- [ ] Eclipse Mosquitto is a good option to consider as a open source message broker over the Mqtt protocol.
-- [ ] Apache Kafka is also a good option to look at although it might be overkill for a lot of applications. 
-- [ ] HiveMq is also a good messaging broker for clustered messaging brokers that need to handle millions of messages per second. Do keep in mind the free version only allows for 25 service connections to one broker.
+- You could consider using Redis cache for applications where you need to store a lot of information in RAM.
+- Eclipse Mosquitto is a good option to consider as a open source message broker over the Mqtt protocol.
+- Apache Kafka is also a good option to look at although it might be overkill for a lot of applications. 
+- HiveMq is also a good messaging broker for clustered messaging brokers that need to handle millions of messages per second. Do keep in mind the free version only allows for 25 service connections to one broker.
 
 There are a few other messaging services available ont he web. Ultimately it depends what you are building your solution for. Some are better for different use cases. So it is up to you.
 
 ## Requirements to get started.
 
-- [ ] Install Dotnet Core SDK. <a href="https://dotnet.microsoft.com/download" target="_blank">Click here.</a>
-- [ ] Install Erlang first. <a href="https://www.erlang.org/downloads" target="_blank">Click here.</a>
-- [ ] Install RabbitMq. <a href="https://www.rabbitmq.com/download.html" target="_blank">Click here.</a>
+- Install Dotnet Core SDK. <a href="https://dotnet.microsoft.com/download" target="_blank">Click here.</a>
+- Install Erlang first. <a href="https://www.erlang.org/downloads" target="_blank">Click here.</a>
+- Install RabbitMq. <a href="https://www.rabbitmq.com/download.html" target="_blank">Click here.</a>
 
 ### What is a producer?
 
